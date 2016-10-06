@@ -1,2 +1,2 @@
 # Lab-6
-Screenshots: 
+Screenshots: https://github.com/wangchen2317199/Lab-6/tree/master/Screenshots
